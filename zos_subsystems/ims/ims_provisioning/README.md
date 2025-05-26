@@ -64,11 +64,11 @@ Inside each role:
 ## Getting Started
 
 If you are unfamiliar with playbooks, you can review our
-[detailed configuration guide](/../../docs/share/configuration_guide.md) or
+[detailed configuration guide](/docs/share/configuration_guide.md) or
 continue with getting started below.
 
 Optionally, you can use the sample
-[host_setup](/../../zos_administration/host_setup/README.md)
+[host_setup](/zos_administration/host_setup/README.md)
 to discover and create your **inventory** and **host_vars** artifacts. It should
 be noted that when you use the **host_setup** it will generate a configuration
 for the most common dependencies, some playbooks require more customized
